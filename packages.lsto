@@ -1,5 +1,8 @@
 {
   kern = {
     url = "https://raw.githubusercontent.com/CC-Proot-OS/SystemPackages/refs/heads/main/kern.lsto"
+  },
+  bake = {
+    url = "https://raw.githubusercontent.com/CC-Proot-OS/SystemPackages/refs/heads/main/bake.lsto"
   }
 }
