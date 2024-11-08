@@ -1,5 +1,5 @@
 {
   kern = {
-    url = "https://github.com/CC-Proot-OS/DarkstarPackages"
+    url = "https://raw.githubusercontent.com/CC-Proot-OS/SystemPackages/refs/heads/main/kern.lsto"
   }
 }
