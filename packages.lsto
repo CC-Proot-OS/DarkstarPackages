@@ -1,0 +1,5 @@
+{
+  kern = {
+    url = "https://github.com/CC-Proot-OS/DarkstarPackages"
+  }
+}
